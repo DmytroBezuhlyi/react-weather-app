@@ -1,8 +1,9 @@
 import React, {Component} from 'react';
 import './App.css';
-import "bootstrap/dist/css/bootstrap.css";
+// import "bootstrap/dist/css/bootstrap.css";
+import "bootswatch/dist/slate/bootstrap.css";
 import { Navbar, NavItem, Nav, Container, Row, Col} from "react-bootstrap";
-
+//slate, solar, superhero
 
 const PLACES = [
     {name: "Харьков", city: "Kharkov"},
