@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e995e080-cac5-48ff-8b36-865a4b0b7f1b/deploy-status)](https://app.netlify.com/sites/doc-weather-react/deploys)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
