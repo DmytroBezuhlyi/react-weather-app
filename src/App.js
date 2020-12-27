@@ -8,6 +8,7 @@ import { Navbar, NavItem, Nav, Container, Row, Col} from "react-bootstrap";
 const PLACES = [
     {name: "Харьков", city: "Kharkov"},
     {name: "Свесса", city: "Svesa"},
+    {name: "Краснополье", city: "Krasnopillya"},
     {name: "Сумы", city: "Sumy"},
     {name: "Киев", city: "Kyiv"}
 ];
